@@ -4,3 +4,6 @@ this is the first repository
 author - sajid 
 <br>
 adding new line
+
+<br>
+adding new line which will be shown in branch1 only
